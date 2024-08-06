@@ -1,10 +1,10 @@
-<h1>password-strength-validator<h1>
+# Password-Strength-Validator
 
 ![sample image ](./src/img/image.png)
 ![sample](./src/img/image2.png)
 ![sample](./src/img/image3.png)
 
-<h4>Deployed website: password-strength-validator [link](https://password-strength-validator.netlify.app/)<h4>
+Deployed website:  [Password-Strength-Validator](https://password-strength-validator.netlify.app/)
 
 
 
