@@ -1,3 +1,14 @@
+<h1>password-strength-validator<h1>
+
+![sample image ](./src/img/image.png)
+![sample](./src/img/image2.png)
+![sample](./src/img/image3.png)
+
+Deployed website [link](https://password-strength-validator.netlify.app/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
