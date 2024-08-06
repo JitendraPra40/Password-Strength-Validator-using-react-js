@@ -1,8 +1,8 @@
 # Password-Strength-Validator
 
-![sample image ](./src/img/image.png)
-![sample](./src/img/image2.png)
-![sample](./src/img/image3.png)
+![sample image ](./src/img/image01.png)
+![sample](./src/img/image02.png)
+![sample](./src/img/image03.png)
 
 Deployed website Link:  [Password-Strength-Validator](https://password-strength-validator.netlify.app/)
 
