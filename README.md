@@ -4,7 +4,7 @@
 ![sample](./src/img/image2.png)
 ![sample](./src/img/image3.png)
 
-Deployed website:  [Password-Strength-Validator](https://password-strength-validator.netlify.app/)
+Deployed website Link:  [Password-Strength-Validator](https://password-strength-validator.netlify.app/)
 
 
 
